@@ -1,0 +1,8 @@
+For GMSL files, these were automated output from SEAKON.
+For figures
+
+Also - for figures in ../../POSTPROCESS run:
+plot_rsl_bar.py
+plot_global_rsl_FINAL.py
+
+then run here: plot_gmsl.py

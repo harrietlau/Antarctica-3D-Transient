@@ -1,0 +1,2 @@
+in ../../POSTPROCESS run:
+plot_global_drsl_FINAL.py
