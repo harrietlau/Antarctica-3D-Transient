@@ -1,0 +1,4 @@
+In ../../POSTPROCESS run get_model.py to extract
+the model.
+
+Then run plot_model.py to make the figure.
