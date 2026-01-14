@@ -1,0 +1,3 @@
+in ../../POSTPROCESS run:
+./plot_upliftrate_sites_relaxation.py
+./plot_upliftrate_sites_sensitivity.py
